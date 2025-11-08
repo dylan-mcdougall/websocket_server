@@ -1,0 +1,24 @@
+{
+  "name": "websocket_server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylan-mcdougall/websocket_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylan-mcdougall/websocket_server/issues"
+  },
+  "homepage": "https://github.com/dylan-mcdougall/websocket_server#readme",
+  "description": "",
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
